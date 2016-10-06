@@ -1,0 +1,49 @@
+/*.hero{
+  text-align: center;
+  background-image: url('images/austin.jpg');
+  background-position: center;
+  background-size: cover;
+}*/
+body {
+  font-family: 'Droid Serif', serif;
+}
+.projects-section{
+  background: tomato;
+}
+.navbar{
+  background-color: black;
+}
+
+
+a{
+  cursor: pointer;
+  color: #999;
+}
+
+a:hover{
+  color: black;
+}
+
+.nav-menu{
+  color: #fff;
+  /*background-color: yellow;*/
+}
+
+/*.portfolio{
+  border: 1px solid black;
+  border-radius: 5px;
+}*/
+
+h5 {
+  display: inline-block;
+}
+
+
+
+/*.button {
+    display: inline-block;
+    padding: 1em;
+    background-color: #79BD9A;
+    text-decoration: none;
+    color: white;
+}*/
